@@ -1,0 +1,825 @@
+INFO:('1', 'Thu May  2 06:48:03 2019', 'Thu May  2 06:50:15 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('1.txt', 'Thu May  2 06:48:16 2019', 'Thu May  2 06:48:16 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('2', 'Thu May  2 06:49:48 2019', 'Thu May  2 06:52:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('2.txt', 'Thu May  2 06:50:22 2019', 'Thu May  2 06:50:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('3', 'Thu May  2 06:51:37 2019', 'Thu May  2 06:51:37 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('3.txt', 'Thu May  2 06:51:45 2019', 'Thu May  2 06:51:45 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('4', 'Thu May  2 07:38:50 2019', 'Thu May  2 07:38:50 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('11', 'Thu May  2 06:50:07 2019', 'Thu May  2 07:11:22 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:trying to add duplicates
+INFO:('11.txt', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:trying to add duplicates
+INFO:('22', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:trying to add duplicates
+INFO:('22.txt', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:trying to add duplicates
+INFO:('111', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('111.txt', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('111222', 'Thu May  2 07:09:22 2019', 'Thu May  2 07:09:22 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('New folder1111', 'Thu May  2 07:11:01 2019', 'Thu May  2 07:11:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('1', 'Thu May  2 06:48:03 2019', 'Thu May  2 06:50:15 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('1.txt', 'Thu May  2 06:48:16 2019', 'Thu May  2 06:48:16 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('2', 'Thu May  2 06:49:48 2019', 'Thu May  2 06:52:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('2.txt', 'Thu May  2 06:50:22 2019', 'Thu May  2 06:50:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('3', 'Thu May  2 06:51:37 2019', 'Thu May  2 06:51:37 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('3.txt', 'Thu May  2 06:51:45 2019', 'Thu May  2 06:51:45 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('4', 'Thu May  2 07:38:50 2019', 'Thu May  2 07:38:50 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:trying to add duplicates
+INFO:('11', 'Thu May  2 06:50:07 2019', 'Thu May  2 07:11:22 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:trying to add duplicates
+INFO:('11.txt', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:trying to add duplicates
+INFO:('22', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:trying to add duplicates
+INFO:('22.txt', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:trying to add duplicates
+INFO:('111', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('111.txt', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('111222', 'Thu May  2 07:09:22 2019', 'Thu May  2 07:09:22 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:('New folder1111', 'Thu May  2 07:11:01 2019', 'Thu May  2 07:11:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:trying to add duplicates
+INFO:__main__:('1', 'Thu May  2 06:48:03 2019', 'Thu May  2 06:50:15 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('1.txt', 'Thu May  2 06:48:16 2019', 'Thu May  2 06:48:16 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('2', 'Thu May  2 06:49:48 2019', 'Thu May  2 06:52:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('2.txt', 'Thu May  2 06:50:22 2019', 'Thu May  2 06:50:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('3', 'Thu May  2 06:51:37 2019', 'Thu May  2 06:51:37 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('3.txt', 'Thu May  2 06:51:45 2019', 'Thu May  2 06:51:45 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('4', 'Thu May  2 07:38:50 2019', 'Thu May  2 07:38:50 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('11', 'Thu May  2 06:50:07 2019', 'Thu May  2 07:11:22 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('11.txt', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('22', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('22.txt', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('111', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('111.txt', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('111222', 'Thu May  2 07:09:22 2019', 'Thu May  2 07:09:22 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('New folder1111', 'Thu May  2 07:11:01 2019', 'Thu May  2 07:11:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:1
+INFO:__main__:1.txt
+INFO:__main__:2
+INFO:__main__:2.txt
+INFO:__main__:3
+INFO:__main__:3.txt
+INFO:__main__:4
+INFO:__main__:('1', 'Thu May  2 06:48:03 2019', 'Thu May  2 06:50:15 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('1.txt', 'Thu May  2 06:48:16 2019', 'Thu May  2 06:48:16 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('2', 'Thu May  2 06:49:48 2019', 'Thu May  2 06:52:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('2.txt', 'Thu May  2 06:50:22 2019', 'Thu May  2 06:50:22 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('3', 'Thu May  2 06:51:37 2019', 'Thu May  2 06:51:37 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('3.txt', 'Thu May  2 06:51:45 2019', 'Thu May  2 06:51:45 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('4', 'Thu May  2 07:38:50 2019', 'Thu May  2 07:38:50 2019', 'Sun Apr 28 07:24:19 2019', 'F:\\python bin\\mobile\\mobile')
+INFO:__main__:trying to add duplicates
+INFO:__main__:11
+INFO:__main__:11.txt
+INFO:__main__:('11', 'Thu May  2 06:50:07 2019', 'Thu May  2 07:11:22 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('11.txt', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:50:14 2019', 'Thu May  2 06:49:13 2019', 'F:\\python bin\\mobile\\mobile\\1\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:22
+INFO:__main__:22.txt
+INFO:__main__:('22', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:52:11 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('22.txt', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:52:21 2019', 'Thu May  2 06:50:30 2019', 'F:\\python bin\\mobile\\mobile\\2\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:111
+INFO:__main__:111.txt
+INFO:__main__:111222
+INFO:__main__:New folder1111
+INFO:__main__:('111', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:51:56 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('111.txt', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:52:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('111222', 'Thu May  2 07:09:22 2019', 'Thu May  2 07:09:22 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+INFO:__main__:('New folder1111', 'Thu May  2 07:11:01 2019', 'Thu May  2 07:11:01 2019', 'Thu May  2 06:50:31 2019', 'F:\\python bin\\mobile\\mobile\\1\\11\\')
+INFO:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 33, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',i)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
+ERROR:__main__:trying to add duplicates error integrity error
+Traceback (most recent call last):
+  File "F:/python bin/mobile/directory.py", line 30, in dbconnect
+    c.execute('''INSERT INTO timestamp(name,ct,dt,mt,path) VALUES(?,?,?,?,?)''',a)
+sqlite3.IntegrityError: UNIQUE constraint failed: timestamp.name
